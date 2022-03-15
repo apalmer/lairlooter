@@ -1,0 +1,15 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-lairlooter-staging-162326-authRole",
+      "UnauthRoleArn": "arn:aws:iam::917773577489:role/amplify-lairlooter-staging-162326-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::917773577489:role/amplify-lairlooter-staging-162326-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-lairlooter-staging-162326-deployment",
+      "UnauthRoleName": "amplify-lairlooter-staging-162326-unauthRole",
+      "StackName": "amplify-lairlooter-staging-162326",
+      "StackId": "arn:aws:cloudformation:us-east-1:917773577489:stack/amplify-lairlooter-staging-162326/13a55ac0-a3b3-11ec-843f-0ecc1f64971f",
+      "AmplifyAppId": "d1kstf0fj9bfz9"
+    }
+  }
+}
