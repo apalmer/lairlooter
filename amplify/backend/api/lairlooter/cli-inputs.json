@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "lairlooter",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "D:\\dev\\lairlooter\\amplify\\backend\\api\\lairlooter\\schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 7
+    }
+  }
+}
