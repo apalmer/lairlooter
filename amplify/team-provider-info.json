@@ -23,6 +23,11 @@
       "StackName": "amplify-lairlooter-dev-122657",
       "StackId": "arn:aws:cloudformation:us-east-1:917773577489:stack/amplify-lairlooter-dev-122657/bccb9000-a47c-11ec-b6ed-0e89d029bf53",
       "AmplifyAppId": "d1kstf0fj9bfz9"
+    },
+    "categories": {
+      "auth": {
+        "lairlootera6da0a0b": {}
+      }
     }
   }
 }
