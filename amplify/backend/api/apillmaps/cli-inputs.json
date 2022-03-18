@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "paths": {
+    "/maps": {
+      "name": "/maps",
+      "lambdaFunction": "llMapsFunc",
+      "permissions": {
+        "setting": "open"
+      }
+    }
+  }
+}

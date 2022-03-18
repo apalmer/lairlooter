@@ -1,0 +1,10 @@
+{
+  "resourceName": "dynllmaps",
+  "tableName": "dynllmaps",
+  "partitionKey": {
+    "fieldName": "id",
+    "fieldType": "string"
+  },
+  "gsi": [],
+  "triggerFunctions": []
+}

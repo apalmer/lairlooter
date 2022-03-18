@@ -27,6 +27,12 @@
     "categories": {
       "auth": {
         "lairlootera6da0a0b": {}
+      },
+      "function": {
+        "llMapsFunc": {
+          "deploymentBucketName": "amplify-lairlooter-dev-122657-deployment",
+          "s3Key": "amplify-builds/llMapsFunc-64596666745a38564a63-build.zip"
+        }
       }
     }
   }
