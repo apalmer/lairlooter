@@ -2,8 +2,8 @@ import { useState } from 'react';
 
 import './App.css';
 
-import Character from './Character';
-import Room from './Room';
+import Character from './components/Character';
+import Room from './components/Room';
 
 function App() {
 
