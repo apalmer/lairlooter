@@ -1,12 +1,18 @@
 import React from "react";
 import './Room.css';
 
+import { useSelector } from 'react-redux'
+
 function Room(props){
+
+    let state = useSelector( state => {
+        return state.room
+    })
 
     return (
         <div>
-            <p>{props.currentRoomName}</p>
-            <p>{props.currentRoom.description}</p>
+            <p>{state.room.name}</p>
+            <p>{state.room.description}</p>
         </div>
     ); 
 } 
